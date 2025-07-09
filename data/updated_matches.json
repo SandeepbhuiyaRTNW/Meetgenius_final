@@ -1,0 +1,149 @@
+[
+  {
+    "attendee": "Bernard Uko",
+    "match": "Shailesh Bhor",
+    "matchScore": 0.92,
+    "whatYouShare": [
+      "Machine Learning & AI Expertise",
+      "Technical Leadership",
+      "Cloud Computing Experience",
+      "Startup Technology Focus"
+    ],
+    "icebreakers": [
+      "I noticed you work with ML and cloud technologies. What's the most challenging AI project you've tackled recently?",
+      "How do you see the intersection of cloud computing and machine learning evolving in the next few years?",
+      "What's your experience with scaling AI solutions in production environments?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Just Arrived"
+    }
+  },
+  {
+    "attendee": "Arthur A Kennedy",
+    "match": "Cihan Behlivan",
+    "matchScore": 0.88,
+    "whatYouShare": [
+      "Startup Founding Experience",
+      "Data Analytics Focus",
+      "Web Development Skills",
+      "Innovation Leadership"
+    ],
+    "icebreakers": [
+      "I see you're also in the startup space. What's been your biggest learning curve as a founder?",
+      "How do you approach data-driven decision making in your company?",
+      "What technologies are you most excited about for the future of data analytics?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Present"
+    }
+  },
+  {
+    "attendee": "Ben Theis",
+    "match": "Michael J.",
+    "matchScore": 0.85,
+    "whatYouShare": [
+      "Technical Engineering",
+      "Problem-Solving Approach",
+      "Innovation Focus",
+      "Professional Development"
+    ],
+    "icebreakers": [
+      "What's the most interesting technical challenge you've solved recently?",
+      "How do you stay current with emerging technologies in your field?",
+      "What advice would you give to someone looking to advance their technical career?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Arriving Soon"
+    }
+  },
+  {
+    "attendee": "Kate Kuehl",
+    "match": "Summer Song",
+    "matchScore": 0.87,
+    "whatYouShare": [
+      "Professional Growth Focus",
+      "Strategic Thinking",
+      "Leadership Development",
+      "Industry Innovation"
+    ],
+    "icebreakers": [
+      "I'd love to hear about your career journey and what drives your professional growth.",
+      "What strategies have you found most effective for leadership development?",
+      "How do you approach innovation in your current role?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Present"
+    }
+  },
+  {
+    "attendee": "Kenneth Krutsch",
+    "match": "Mark Hurlburt",
+    "matchScore": 0.84,
+    "whatYouShare": [
+      "Business Strategy",
+      "Market Analysis",
+      "Professional Networks",
+      "Growth Mindset"
+    ],
+    "icebreakers": [
+      "What trends are you seeing in your industry that excite you most?",
+      "How do you approach building strategic partnerships?",
+      "What's your perspective on the current market opportunities?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Present"
+    }
+  },
+  {
+    "attendee": "Mark Zukor",
+    "match": "Nate Donovan",
+    "matchScore": 0.86,
+    "whatYouShare": [
+      "Entrepreneurial Spirit",
+      "Technology Innovation",
+      "Business Development",
+      "Strategic Vision"
+    ],
+    "icebreakers": [
+      "I'm curious about your entrepreneurial journey. What's been your most valuable lesson?",
+      "How do you identify and evaluate new business opportunities?",
+      "What role does technology play in your strategic planning?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Just Arrived"
+    }
+  },
+  {
+    "attendee": "Peter Somerville",
+    "match": "Taylor Birkeland",
+    "matchScore": 0.83,
+    "whatYouShare": [
+      "Professional Excellence",
+      "Continuous Learning",
+      "Industry Expertise",
+      "Collaborative Approach"
+    ],
+    "icebreakers": [
+      "What's been the most impactful learning experience in your career?",
+      "How do you approach collaboration in your professional projects?",
+      "What industry developments are you most excited about?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Arriving Soon",
+      "match": "Present"
+    }
+  }
+]

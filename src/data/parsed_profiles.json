@@ -1,0 +1,47 @@
+@@ .. @@
+     "interests": [
+       "Computer Support",
+       "Network Administration",
+       "IT Management"
+     ],
+-    "goal": "Find clients or startup partners"
++    "goal": "Find clients or startup partners",
++    "status": "Present",
++    "checkedInAt": "2025-01-27T10:30:00.000Z",
++    "lastUpdated": "2025-01-27T10:30:00.000Z"
+   },
+   {
+     "id": "profile-1751148825114-a80iqqqbc",
+@@ .. @@
+     "interests": [
+       "Digital Solutions",
+       "Brand Connection",
+       "Photography",
+       "NFTs",
+       "Web3",
+       "Creative Direction",
+       "Interactive Design"
+     ],
+-    "goal": "Find clients and expand network"
++    "goal": "Find clients and expand network",
++    "status": "Not Arrived",
++    "lastUpdated": "2025-01-27T09:00:00.000Z"
+   },
+   {
+     "id": "profile-1751148832181-78t126axd",
+@@ .. @@
+     "interests": [
+       "Technology",
+       "Creativity",
+       "People",
+       "Problem-solving",
+       "Consulting",
+       "Advising startups",
+       "Leadership roles"
+     ],
+-    "goal": "Find clients or startup partners"
++    "goal": "Find clients or startup partners",
++    "status": "Present",
++    "checkedInAt": "2025-01-27T11:15:00.000Z",
++    "lastUpdated": "2025-01-27T11:15:00.000Z"
+   },

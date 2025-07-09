@@ -1,0 +1,11 @@
+{
+  "attendee": "Michael J.",
+  "attendeeProfile": null,
+  "match": "Colin Hirdman", 
+  "matchProfile": null,
+  "matchScore": 0.80,
+  "whatYouShare": ["Professional Excellence", "Business Strategy", "Leadership", "Innovation"],
+  "icebreakers": ["What drives your approach to business strategy?", "How do you foster innovation in your work?", "What professional achievements are you most proud of?"],
+  "matchConfidence": "High",
+  "presenceStatus": {"attendee": "Present", "match": "Present"}
+}

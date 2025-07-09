@@ -1,0 +1,282 @@
+[
+  {
+    "profile": {
+      "id": "profile-1752086007892-3rkyyxs0b",
+      "name": "Aditya Prabhu",
+      "title": "Artificial Intelligence Designer",
+      "company": "Ryan Companies US, Inc."
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086007892-3rkyyxs0b.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086007892-3rkyyxs0b&event=ride-the-next-wave-demo-night&name=Aditya%20Prabhu"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086041360-w1j8079h3",
+      "name": "Amit Deshpande",
+      "title": "Chief Growth and Strategy Officer",
+      "company": "PiplNow LLC"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086041360-w1j8079h3.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086041360-w1j8079h3&event=ride-the-next-wave-demo-night&name=Amit%20Deshpande"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086101432-u47k6h3gr",
+      "name": "Ben Theis",
+      "title": "Chief Executive Officer",
+      "company": "Skol Marketing"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086101432-u47k6h3gr.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086101432-u47k6h3gr&event=ride-the-next-wave-demo-night&name=Ben%20Theis"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086124873-p74qe9m9u",
+      "name": "Bernard Uko",
+      "title": "Founder/ IT Tech Support",
+      "company": "Zone 103 Media Enterprises"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086124873-p74qe9m9u.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086124873-p74qe9m9u&event=ride-the-next-wave-demo-night&name=Bernard%20Uko"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086147103-chvkicg4l",
+      "name": "Chris Madden",
+      "title": "CEO",
+      "company": "Good Future Media"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086147103-chvkicg4l.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086147103-chvkicg4l&event=ride-the-next-wave-demo-night&name=Chris%20Madden"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086176611-9040pyfz0",
+      "name": "Christi Kmecik",
+      "title": "Founder and Owner",
+      "company": "Written Hugs Designs"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086176611-9040pyfz0.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086176611-9040pyfz0&event=ride-the-next-wave-demo-night&name=Christi%20Kmecik"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086198510-5fq2uk7z0",
+      "name": "Cihan Behlivan",
+      "title": "Managing Partner",
+      "company": "Ride The Next Wave"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086198510-5fq2uk7z0.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086198510-5fq2uk7z0&event=ride-the-next-wave-demo-night&name=Cihan%20Behlivan"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086234156-9w0k1r1gp",
+      "name": "Glenn Gray",
+      "title": "Digital Brand Connector",
+      "company": "Stiles Financial Services, Inc."
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086234156-9w0k1r1gp.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086234156-9w0k1r1gp&event=ride-the-next-wave-demo-night&name=Glenn%20Gray"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086255168-tzfpyhdd4",
+      "name": "Himanshu Laiker",
+      "title": "Executive in Residence",
+      "company": "University of Minnesota, Technology Commercialization"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086255168-tzfpyhdd4.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086255168-tzfpyhdd4&event=ride-the-next-wave-demo-night&name=Himanshu%20Laiker"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086291983-9b04sqhn1",
+      "name": "Kate Kuehl",
+      "title": "Senior App Engineer",
+      "company": "FieldKit"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086291983-9b04sqhn1.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086291983-9b04sqhn1&event=ride-the-next-wave-demo-night&name=Kate%20Kuehl"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086366969-6p24oait6",
+      "name": "Mark Hurlburt",
+      "title": "President",
+      "company": "Prime Digital Academy"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086366969-6p24oait6.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086366969-6p24oait6&event=ride-the-next-wave-demo-night&name=Mark%20Hurlburt"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086392555-goge5ljb7",
+      "name": "Mark Zukor",
+      "title": "Fractional Creative Director & Brand Builder",
+      "company": "Zukor Brand Consulting"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086392555-goge5ljb7.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086392555-goge5ljb7&event=ride-the-next-wave-demo-night&name=Mark%20Zukor"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086420671-dxbqcf5p8",
+      "name": "Michael Hands",
+      "title": "Sr. Product Owner Consultant",
+      "company": "Fulcrum (Thrivent)"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086420671-dxbqcf5p8.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086420671-dxbqcf5p8&event=ride-the-next-wave-demo-night&name=Michael%20Hands"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086448637-k98f93tgb",
+      "name": "Michael J.",
+      "title": "Director of Operations (Fractional)",
+      "company": "FullSTEM by createMPLS"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086448637-k98f93tgb.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086448637-k98f93tgb&event=ride-the-next-wave-demo-night&name=Michael%20J."
+  },
+  {
+    "profile": {
+      "id": "profile-1752086487379-glwcy6psr",
+      "name": "Natalia Dueholm",
+      "title": "Director, North American Division",
+      "company": "VM.PL Software House"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086487379-glwcy6psr.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086487379-glwcy6psr&event=ride-the-next-wave-demo-night&name=Natalia%20Dueholm"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086524350-1dw35rd7d",
+      "name": "Peter Somerville",
+      "title": "Co-Founder",
+      "company": "Caparra"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086524350-1dw35rd7d.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086524350-1dw35rd7d&event=ride-the-next-wave-demo-night&name=Peter%20Somerville"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086545852-hnf5bufcq",
+      "name": "Shailesh Bhor",
+      "title": "Founder and Managing Partner",
+      "company": "The Unconsulting Company"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086545852-hnf5bufcq.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086545852-hnf5bufcq&event=ride-the-next-wave-demo-night&name=Shailesh%20Bhor"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086563972-iyi5y876s",
+      "name": "Steve Stark",
+      "title": "Pres./Founder",
+      "company": "Score Discs Corp."
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086563972-iyi5y876s.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086563972-iyi5y876s&event=ride-the-next-wave-demo-night&name=Steve%20Stark"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086588817-7rctm0pbc",
+      "name": "Summer Song",
+      "title": "Founder / CEO",
+      "company": "Omi Live & Siplit"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086588817-7rctm0pbc.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086588817-7rctm0pbc&event=ride-the-next-wave-demo-night&name=Summer%20Song"
+  },
+  {
+    "profile": {
+      "id": "profile-1752086629204-likkspgcf",
+      "name": "Toby Madden",
+      "title": "President",
+      "company": "Power Parametrics, LLC"
+    },
+    "qrCode": "/qr-codes/checkin-profile-1752086629204-likkspgcf.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=profile-1752086629204-likkspgcf&event=ride-the-next-wave-demo-night&name=Toby%20Madden"
+  },
+  {
+    "profile": {
+      "id": "andre-smith",
+      "name": "Andre Smith",
+      "title": "Senior Software Developer",
+      "company": "Tech Solutions Inc"
+    },
+    "qrCode": "/qr-codes/checkin-andre-smith.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=andre-smith&event=ride-the-next-wave-demo-night&name=Andre%20Smith"
+  },
+  {
+    "profile": {
+      "id": "arthur-a-kennedy",
+      "name": "Arthur A Kennedy",
+      "title": "Founder",
+      "company": "Dataplotic"
+    },
+    "qrCode": "/qr-codes/checkin-arthur-a-kennedy.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=arthur-a-kennedy&event=ride-the-next-wave-demo-night&name=Arthur%20A%20Kennedy"
+  },
+  {
+    "profile": {
+      "id": "colin-hirdman",
+      "name": "Colin Hirdman",
+      "title": "Product Manager",
+      "company": "Innovation Labs"
+    },
+    "qrCode": "/qr-codes/checkin-colin-hirdman.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=colin-hirdman&event=ride-the-next-wave-demo-night&name=Colin%20Hirdman"
+  },
+  {
+    "profile": {
+      "id": "irene-o",
+      "name": "Irene O",
+      "title": "Marketing Director",
+      "company": "Creative Agency"
+    },
+    "qrCode": "/qr-codes/checkin-irene-o.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=irene-o&event=ride-the-next-wave-demo-night&name=Irene%20O"
+  },
+  {
+    "profile": {
+      "id": "kenneth-krutsch",
+      "name": "Kenneth Krutsch",
+      "title": "Founder and President",
+      "company": "Educational Innovations"
+    },
+    "qrCode": "/qr-codes/checkin-kenneth-krutsch.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=kenneth-krutsch&event=ride-the-next-wave-demo-night&name=Kenneth%20Krutsch"
+  },
+  {
+    "profile": {
+      "id": "liban-lee-ben-kano",
+      "name": "Liban (lee~ben) Kano",
+      "title": "Software Engineer",
+      "company": "Tech Startup"
+    },
+    "qrCode": "/qr-codes/checkin-liban-lee-ben-kano.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=liban-lee-ben-kano&event=ride-the-next-wave-demo-night&name=Liban%20(lee~ben)%20Kano"
+  },
+  {
+    "profile": {
+      "id": "nate-donovan",
+      "name": "Nate Donovan",
+      "title": "Co-Founder",
+      "company": "Creative Ventures"
+    },
+    "qrCode": "/qr-codes/checkin-nate-donovan.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=nate-donovan&event=ride-the-next-wave-demo-night&name=Nate%20Donovan"
+  },
+  {
+    "profile": {
+      "id": "taylor-birkeland",
+      "name": "Taylor Birkeland",
+      "title": "Principal Engineer",
+      "company": "Tech Innovations"
+    },
+    "qrCode": "/qr-codes/checkin-taylor-birkeland.png",
+    "checkInUrl": "http://localhost:3000/checkin?attendee=taylor-birkeland&event=ride-the-next-wave-demo-night&name=Taylor%20Birkeland"
+  }
+]

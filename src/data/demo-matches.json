@@ -1,0 +1,122 @@
+[
+  {
+    "attendee": "Sarah Chen",
+    "attendeeProfile": {
+      "id": "profile-1",
+      "name": "Sarah Chen",
+      "title": "AI Research Engineer",
+      "company": "OpenAI",
+      "location": "San Francisco, CA",
+      "skills": ["Machine Learning", "Python", "TensorFlow", "NLP", "Computer Vision"],
+      "certifications": ["AWS ML Specialty", "Google Cloud ML Engineer"],
+      "experience": ["Research at Stanford AI Lab", "ML Engineer at Google", "PhD in Computer Science"],
+      "interests": ["AI Ethics", "Open Source", "Mentorship"],
+      "goal": "Technical collaboration and AI deep dives"
+    },
+    "match": "Marcus Rodriguez",
+    "matchProfile": {
+      "id": "profile-2",
+      "name": "Marcus Rodriguez",
+      "title": "Founder & CEO",
+      "company": "NeuralFlow AI",
+      "location": "San Francisco, CA",
+      "skills": ["Product Strategy", "AI/ML", "Team Building", "Fundraising", "Python"],
+      "certifications": ["Stanford Executive Program", "Y Combinator Alumni"],
+      "experience": ["Founded 2 AI startups", "Ex-Product Manager at Meta", "Stanford MBA"],
+      "interests": ["AI Applications", "Startup Ecosystem", "Investor Relations"],
+      "goal": "Find technical co-founders and AI talent"
+    },
+    "matchScore": 0.92,
+    "whatYouShare": ["AI/ML Expertise", "San Francisco Location", "Python Programming", "Startup Experience", "Technical Leadership"],
+    "icebreakers": [
+      "I saw you worked on NLP at OpenAI - we're building something similar at NeuralFlow. What's your take on the latest transformer architectures?",
+      "Your background in AI ethics is fascinating. How do you think startups should approach responsible AI development?",
+      "I noticed you mentor other engineers. We're always looking for technical advisors - would love to hear your thoughts on our approach."
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Just Arrived"
+    }
+  },
+  {
+    "attendee": "David Kim",
+    "attendeeProfile": {
+      "id": "profile-3",
+      "name": "David Kim",
+      "title": "Senior Software Engineer",
+      "company": "Stripe",
+      "location": "San Francisco, CA",
+      "skills": ["Full Stack Development", "React", "Node.js", "PostgreSQL", "AWS"],
+      "certifications": ["AWS Solutions Architect", "React Developer"],
+      "experience": ["5 years at Stripe", "Built payment infrastructure", "Open source contributor"],
+      "interests": ["Fintech", "Developer Tools", "Side Projects"],
+      "goal": "Learn new tech and find collaboration opportunities"
+    },
+    "match": "Lisa Wang",
+    "matchProfile": {
+      "id": "profile-4",
+      "name": "Lisa Wang",
+      "title": "Product Manager",
+      "company": "Figma",
+      "location": "San Francisco, CA",
+      "skills": ["Product Strategy", "User Research", "Data Analysis", "Design Systems", "SQL"],
+      "certifications": ["Google Analytics", "Product Management Certificate"],
+      "experience": ["PM at Figma for 3 years", "Ex-consultant at McKinsey", "Stanford CS degree"],
+      "interests": ["Design Tools", "User Experience", "Product Analytics"],
+      "goal": "Find technical partners for side projects"
+    },
+    "matchScore": 0.85,
+    "whatYouShare": ["San Francisco Tech Scene", "Product Development", "Side Project Interest", "Stanford Connection", "Data-Driven Approach"],
+    "icebreakers": [
+      "I love what Figma has done for design collaboration. As a developer, I'm curious about your product decisions around developer handoff tools.",
+      "Your McKinsey background is interesting - how do you apply consulting frameworks to product management?",
+      "I saw you're interested in side projects. I've been working on some developer tools - would love to get a PM perspective."
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Present",
+      "match": "Present"
+    }
+  },
+  {
+    "attendee": "Alex Thompson",
+    "attendeeProfile": {
+      "id": "profile-5",
+      "name": "Alex Thompson",
+      "title": "Data Scientist",
+      "company": "Uber",
+      "location": "San Francisco, CA",
+      "skills": ["Data Science", "Python", "R", "Machine Learning", "Statistics", "SQL"],
+      "certifications": ["Certified Analytics Professional", "AWS Data Analytics"],
+      "experience": ["Data Scientist at Uber", "Analytics at Airbnb", "PhD in Statistics"],
+      "interests": ["Predictive Analytics", "A/B Testing", "Data Visualization"],
+      "goal": "Find mentorship and learn about AI applications"
+    },
+    "match": "Jennifer Liu",
+    "matchProfile": {
+      "id": "profile-6",
+      "name": "Jennifer Liu",
+      "title": "VP of Engineering",
+      "company": "Databricks",
+      "location": "San Francisco, CA",
+      "skills": ["Engineering Leadership", "Data Infrastructure", "Scala", "Spark", "Team Management"],
+      "certifications": ["Executive Leadership Program", "Apache Spark Certified"],
+      "experience": ["VP Eng at Databricks", "Engineering Manager at Netflix", "15+ years in tech"],
+      "interests": ["Data Engineering", "Team Building", "Mentorship"],
+      "goal": "Mentor junior talent and share knowledge"
+    },
+    "matchScore": 0.88,
+    "whatYouShare": ["Data & Analytics Focus", "San Francisco Location", "Python/Data Stack", "Statistics Background", "Mentorship Interest"],
+    "icebreakers": [
+      "Your work on data infrastructure at Databricks is impressive. I'm curious about how you approach scaling analytics for massive datasets.",
+      "I'd love to learn from your leadership experience. What advice do you have for data scientists looking to grow into management roles?",
+      "Your background spans both Netflix and Databricks - how do you see the evolution of data engineering in different industries?"
+    ],
+    "matchConfidence": "High",
+    "presenceStatus": {
+      "attendee": "Arriving Soon",
+      "match": "Present"
+    }
+  }
+]
